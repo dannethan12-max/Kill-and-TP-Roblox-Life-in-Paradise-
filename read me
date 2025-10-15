@@ -1,0 +1,10 @@
+
+(NOT CASE-SENSITIVE)
+
+-kill rand (for random player)
+-kill pla (shortened)
+-kill player (normal)
+
+-tp rand (random player)
+-tp pla (shortened)
+-tp player (full)
